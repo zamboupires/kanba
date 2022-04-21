@@ -1,0 +1,13 @@
+/*style global et changement des variables de bulma*/
+
+/*import google fonts*/
+@import url("https://fonts.googleapis.com/css?family=Tangerine");
+
+/*global style*/
+html, body{
+  height: 100%;
+}
+html{
+  background-size: cover;
+  overflow-y: auto !important;
+}
